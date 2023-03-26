@@ -1,3 +1,5 @@
+# No more have this device
+
 # Opencore for Lenovo Yoga920-13ikb
 
 ![Image PNG](https://user-images.githubusercontent.com/40405226/200408879-726c250f-5640-4e91-ab48-53487d285a4e.png)
